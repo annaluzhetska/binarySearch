@@ -1,1 +1,1 @@
-# binarySearch
+binary search (бінарний пошук)
